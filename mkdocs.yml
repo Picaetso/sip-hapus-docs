@@ -48,6 +48,8 @@ nav:
   - Arsitektur & Teknologi: arsitektur.md
   - Panduan Instalasi: instalasi.md
   - Hak Akses (RBAC): rbac.md
+  - Tutorial:
+      - Sign Up: tutorial/Sign Up.md
   - Panduan Penggunaan:
       - Wajib Pajak (Warga/Dealer): manual/wajib_pajak.md
       - Petugas Instansi: manual/petugas.md
