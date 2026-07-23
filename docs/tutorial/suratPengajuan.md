@@ -276,7 +276,9 @@ Buka menu Surat Pengajuan dan pilih salah satu dokumen yang tersedia untuk masuk
 
 **Langkah 2 — Buka Pratinjau PDF**
 
-Cari dan klik ikon atau tautan **Preview PDF SP** yang terletak pada halaman detail dokumen.
+Cari dan klik ikon atau tautan **Lihat PDF** yang terletak pada halaman detail dokumen.
+
+![Preview dokumen](Images/suratpengajuan-6_2.png)
 
 ### Hasil yang Diharapkan
 - File PDF Surat Pengajuan berhasil di-render dengan benar tanpa merusak tata letak.

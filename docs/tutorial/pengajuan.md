@@ -75,10 +75,7 @@ Masuk ke sistem menggunakan akun Wajib Pajak.
 
 **Langkah 2 — Buka Menu Daftar Pengajuan**
 
-Navigasi ke:
-```
-/pengajuan-saya
-```
+Navigasi ke halaman **Daftar Pengajuan**
 
 ![Halaman daftar pengajuan 1](Images/pengajuan-2_1.png)
 
@@ -104,10 +101,7 @@ Masuk ke sistem menggunakan akun petugas yang berwenang.
 
 **Langkah 2 — Buka Menu Manajemen Pengajuan**
 
-Navigasi ke:
-```
-/admin/pengajuan
-```
+Navigasi ke halaman **Manajemen Pengajuan**
 
 ![Halaman manajemen pengajuan 1](Images/pengajuan-3_1.png)
 
@@ -167,6 +161,8 @@ Klik tombol **Hapus Pengajuan** pada data yang ingin dihapus.
 
 Konfirmasi tindakan penghapusan pada dialog konfirmasi yang muncul.
 
+![Konfirmasi pengajuan](Images/pengajuan-5_2.png)
+
 ### Hasil yang Diharapkan
 - Pengajuan berhasil dihapus dari database dan muncul pesan sukses.
  
@@ -202,6 +198,8 @@ Klik salah satu entri log untuk melihat informasi lengkapnya.
 ### Hasil yang Diharapkan
 - Sistem menampilkan detail aktivitas pada log yang dipilih, termasuk waktu, pelaku, dan keterangan perubahan.
 
+![Detail log](Images/pengajuan-6_4.png)
+
 ---
 ## Penerimaan SK Lengkap & Selesai oleh WP
 
@@ -218,7 +216,7 @@ Fitur ini memungkinkan Wajib Pajak (WP) untuk melihat, mengunduh seluruh dokumen
 
 Buka menu Pengajuan, lalu pilih pengajuan aktif Anda untuk masuk ke halaman detail pengajuan.
 
-![ke detail pengajuan](Images/pengajuan-7_1.png)
+![ke detail pengajuan](Images/pengajuan-6_1.png)
 
 **Langkah 2 — Buka Menu Lampiran Dokumen**
 

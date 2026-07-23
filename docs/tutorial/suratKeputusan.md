@@ -19,11 +19,13 @@ Cari pengajuan yang telah disetujui penuh, klik tombol **Buat Surat Keputusan**,
 
 Lengkapi seluruh data penulisan dokumen yang diminta pada jendela tampilan (modal form) SK yang muncul.
 
+![Form surat keputusan](Images/suratKeputusan-1_2.png)
+
 **Langkah 3 — Tampilkan Pratinjau Dokumen**
 
 Cari dan klik tombol **Lihat Preview** untuk memproses tampilan sementara dokumen.
 
-![Tombol preview](Images/suratKeputusan-1_2.png)
+![Tombol preview](Images/suratKeputusan-1_3.png)
 
 > ⚠️ **Mode Pratinjau:** Langkah ini berjalan dalam mode preview murni. Sistem tidak akan membuat berkas penyimpanan log baru, tidak menyimpan media ke server, dan tidak memicu pengiriman notifikasi WhatsApp.
 
@@ -31,7 +33,7 @@ Cari dan klik tombol **Lihat Preview** untuk memproses tampilan sementara dokume
 
 Pastikan isi pratinjau surat keputusan sudah tepat dan klik tombol **Terbitkan SK**.
 
-![Tombol terbitkan sk](Images/suratKeputusan-1_3.png)
+![Tombol terbitkan sk](Images/suratKeputusan-1_4.png)
 
 ### Hasil yang Diharapkan
 - File PDF Surat Keputusan (SK) berhasil di-render oleh sistem secara real-time berdasarkan data formulir modal.
