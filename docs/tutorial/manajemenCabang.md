@@ -16,7 +16,7 @@ Akses menu utama dan pilih menu Cabang/Samsat.
 
 **Langkah 2 — Klik Tambah Cabang**
 
-Klik tombol **Tambah Cabang** untuk membuka formulir input.
+Klik tombol **Tambah Wilayah** untuk membuka formulir input.
 
 ![Tombol tambah cabang](Images/manajemenCabang-1_2.png)
 
@@ -28,7 +28,7 @@ Masukkan informasi Nama Cabang dan Wilayah pada kolom yang tersedia.
 
 **Langkah 4 — Klik Simpan**
 
-Klik tombol **Simpan** untuk merekam data ke dalam sistem.
+Klik tombol **Simpan Wilayah** untuk merekam data ke dalam sistem.
 
 ![Tombol simpan](Images/manajemenCabang-1_4.png)
 

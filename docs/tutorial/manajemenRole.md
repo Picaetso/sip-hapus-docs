@@ -17,9 +17,9 @@ Buka menu navigasi utama aplikasi, lalu cari dan pilih menu **Akses Group**.
 
 **Langkah 2 — Inisiasi Tambah Role**
 
-Cari dan klik tombol **Tambah Role Baru** untuk membuka halaman pembuatan konfigurasi peran baru.
+Cari dan klik tombol **Tambah Grup Akses** untuk membuka halaman pembuatan konfigurasi peran baru.
 
-![tombol tambah role baru](Images/mnjRole-1_2.png)
+![tombol tambah grup akses](Images/mnjRole-1_2.png)
 
 **Langkah 3 — Atur Nama dan Hak Akses**
 

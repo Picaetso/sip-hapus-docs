@@ -49,11 +49,23 @@ Klik tombol **Tambah Kendaraan** untuk menambahkan kendaraan lain dan lengkapi s
 
 ![Tombol tambah kendaraan](Images/pengajuan-1_4.png)
 
-**Langkah 6 — Kirim Pengajuan**
+**Langkah 6 — Simpan Kendaraan**
 
-Klik tombol **Simpan & Kirim** untuk mengirimkan pengajuan.
+Klik tombol **Simpan Kendaraan** untuk menyimpan data kendaraan.
 
 ![Tombol simpan](Images/pengajuan-1_5.png)
+
+**Langkah 7 — Kirim Pengajuan**
+
+Pilih wilayah samsat yang terkait dengan pengajuan ini pada kotak dropdown.
+
+![Pilih wilayah samsat](Images/pengajuan-1_6.png)
+
+**Langkah 8 — Kirim Pengajuan**
+
+Klik tombol **Selesai & Buat Nomor Pengajuan** untuk mengirimkan pengajuan.
+
+![Tombol simpan](Images/pengajuan-1_7.png)
 
 ### Hasil yang Diharapkan
 - Pengajuan berhasil dikirim dan masuk ke sistem dengan status awal.
