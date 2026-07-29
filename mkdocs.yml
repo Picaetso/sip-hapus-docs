@@ -60,6 +60,24 @@ nav:
   - Panduan Instalasi: instalasi.md
   - Hak Akses (RBAC): rbac.md
   - Tutorial:
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+      - Autentikasi: tutorial/autentikasi.md
+      - Dashboard: tutorial/dashboard.md
+      - Kendaraan: tutorial/kendaraan.md
+      - Manajemen Cabang: tutorial/manajemenCabang.md
+      - Manajemen Pengguna: tutorial/manajemenPengguna.md
+      - Manajemen Permission: tutorial/manajemenPermission.md
+      - Manajemen Role: tutorial/manajemenRole.md
+      - Notifikasi: tutorial/notifikasi.md
+      - Pengajuan: tutorial/pengajuan.md
+      - Profil: tutorial/profil.md
+      - Surat Keputusan: tutorial/suratKeputusan.md
+      - Surat Pengajuan: tutorial/suratPengajuan.md
+#      - Update Status: tutorial/updateStatus.md
+=======
+>>>>>>> Stashed changes
       - 1. Autentikasi: tutorial/autentikasi.md
       - 2. Dashboard: tutorial/dashboard.md
       - 3. Pengajuan: tutorial/pengajuan.md
@@ -73,6 +91,10 @@ nav:
       - 11. Manajemen Pengguna: tutorial/manajemenPengguna.md
       - 12. Manajemen Permission: tutorial/manajemenPermission.md
       - 13. Manajemen Role: tutorial/manajemenRole.md
+<<<<<<< Updated upstream
+=======
+>>>>>>> 00fd1e1511ec5358965756c42f51ef477415e4d7
+>>>>>>> Stashed changes
   - Panduan Penggunaan:
       - Wajib Pajak (Warga/Dealer): manual/wajib_pajak.md
       - Petugas Instansi: manual/petugas.md
